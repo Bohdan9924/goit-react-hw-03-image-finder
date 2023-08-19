@@ -25,14 +25,14 @@ class Searchbar extends Component {
         <Form onSubmit={this.handleSubmitInput}>
           <Input
             type="text"
-            placeholder="Search images and photos"
+            placeholder="Search images"
             value={this.state.search}
             onChange={this.handleChangeInput}
           />
 
           <Button type="submit">
-            <span style={{ fontSize: '12px', color: '#260033' }}>
-              <BsSearch style={{ fill: '#260033', marginRight: '5px' }} />
+            <span style={{ fontSize: '10px', color: '#19131b' }}>
+              <BsSearch style={{ fill: '#260033', marginRight: '3px' }} />
               Search
             </span>
           </Button>
