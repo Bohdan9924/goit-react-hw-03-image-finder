@@ -33,5 +33,5 @@ export const Wrapper = styled.div`
     align-items:center;
     gap:30px;
 
-    margin-top:30px;
+    margin-top:35px;
 `
