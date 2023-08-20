@@ -1,4 +1,4 @@
-import Searchbar from './Searchbar/Searchbar';
+import Searchbar from './ImageSearchbar/Searchbar';
 import ImageGallery from './ImageGallery/ImageGallery';
 import { Component } from 'react';
 
